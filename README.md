@@ -7,7 +7,7 @@ Force Feedback (FFB) para **Gran Turismo PSP** en **PPSSPP (Windows)** con un vo
 2. La convierte con un modelo de físicas en efectos de Force Feedback.
 3. Los envía al volante por DirectInput (vía SDL2 Haptic).
 
-> Autor: **[TU NOMBRE O USUARIO]** · Proyecto independiente, no afiliado a Sony, Polyphony Digital ni PPSSPP.
+> Autor: **max4567pp** · Proyecto independiente y desarrollado con asistencia de IA (Claude, de Anthropic), no afiliado a Sony, Polyphony Digital ni PPSSPP.
 > No incluye ni distribuye el juego ni ninguna ROM/ISO.
 
 ## Estado
